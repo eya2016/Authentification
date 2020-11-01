@@ -1,0 +1,4 @@
+{
+ "mongoURI": "mongodb+srv://eya:eyaz2020@cluster0.v2mjz.mongodb.net/userAuthentificaion?retryWrites=true&w=majority",
+ "jwtSecret": "sl_myJwtSecret"
+}
